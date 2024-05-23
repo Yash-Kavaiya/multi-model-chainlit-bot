@@ -13,6 +13,7 @@ This is a chatbot application that leverages multiple language models to provide
 ![Demo](./image.png)
 
 ![Demo](./image%20copy.png)
+
 ## Installation
 
 1. Clone the repository:
@@ -40,10 +41,11 @@ This is a chatbot application that leverages multiple language models to provide
 2. Run the application:
 
    ```bash
-   python app.py
+   chainlit run app.py -w
+
    ```
 
-3. Open your web browser and navigate to `http://localhost:5000` to access the chat interface.
+3. Open your web browser and navigate to `http://localhost:8000` to access the chat interface.
 
 4. Start conversing with the chatbot by typing your messages in the input field.
 
