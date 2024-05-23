@@ -9,7 +9,10 @@ This is a chatbot application that leverages multiple language models to provide
 - Supports models from different providers (e.g., OpenAI, Anthropic, Cohere)
 - Ability to switch between models or combine their outputs
 - Interactive chat interface for conversing with the bot
+
 ![Demo](./image.png)
+
+![Demo](./image%20copy.png)
 ## Installation
 
 1. Clone the repository:
