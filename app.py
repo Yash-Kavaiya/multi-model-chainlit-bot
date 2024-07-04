@@ -5,6 +5,7 @@ from langchain.schema.runnable import Runnable
 from langchain.schema.runnable.config import RunnableConfig
 import getpass
 import os
+
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 if "GOOGLE_API_KEY" not in os.environ:
